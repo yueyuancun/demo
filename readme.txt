@@ -2,3 +2,4 @@
 2 echo hehe
 3 echo hehe
 4 echo hehe
+5 add git commands.
